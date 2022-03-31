@@ -10,3 +10,11 @@
 ## About myself:
 
 Basketball player and NBA watcher
+
+## Code example:
+
+```javascript
+function multiply(a, b){
+ return a * b;
+}
+```
